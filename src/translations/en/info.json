@@ -1,0 +1,11 @@
+{
+  "price": {
+    "description": "DOWNLOAD PRICE"
+  },
+  "contacts": {
+    "description": "CONTACT US"
+  },
+  "search": {
+    "label": "What you're looking for"
+  }
+}

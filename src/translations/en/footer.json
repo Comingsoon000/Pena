@@ -1,0 +1,15 @@
+{
+  "theme": {
+    "foundation": "2015 @Copyright - Foundation theme by ",
+    "author": "Stylemixthemes"
+  },
+  "links": {
+    "services": "Services",
+    "works": "Our Works",
+    "news": "News & events",
+    "collaboration": "Work with us",
+    "faq": "F.A.Q",
+    "contacts": "Countact us",
+    "shop": "Shop"
+  }
+}

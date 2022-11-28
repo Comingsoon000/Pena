@@ -1,0 +1,18 @@
+{
+  "villa": {
+    "title": "Contemporary Villa",
+    "content": {
+      "part1": "Diversity is a buzzword often heard by brand managers, business tycoons, politicians, and moreL but it's much more than that. To us at DM Construction, diversity is the name of the game.",
+      "part2": "We offer a diverse set of skills to all clients in all fields, but also offer a diverse group of individuals who are able to deliver those skills. From"
+    },
+    "action": "VIEW PROJECT"
+  },
+  "workWithUs": {
+    "description": "WORK WITH US"
+  },
+  "subscribe": {
+    "title": "SUBSCRIBE",
+    "label": "E-mail",
+    "action": "SIGN UP"
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "services": {
+    "title": "OUR SERVICES",
+    "content": "Our mission is to provide the highest level of service for our client-partners from concept through construction."
+  },
+  "contracting": {
+    "title": "General Contracting",
+    "content": "This allows the Design and Engineering team to originate drawings, specifications, structural calculations, details and scopes of work that deliver exactly what the client had intended to achieve."
+  },
+  "engineering": {
+    "title": "Project design and engineering",
+    "content": "Through Stage-Gate, Design and Engineering methodology, DMCS ensure client-partners realize clearly defined project objective to achieve intended results."
+  },
+  "improvements": {
+    "title": "Capital Iprovements",
+    "content": "This results in scope creep and slippage of the schedule that ultimately result in additional costs to the owner."
+  }
+}
